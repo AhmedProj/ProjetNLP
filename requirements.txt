@@ -6,4 +6,4 @@ torch
 seaborn
 matplotlib
 xgboost
-tqm
+tqdm
